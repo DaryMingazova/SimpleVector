@@ -57,5 +57,5 @@ Complexity (efficiency) of general vector operations:
 How to use
 --------------
 
-- Put the files `array_ptr.h, simple_vector in your project folder.h` from the repository
-- Connect SimpleVector to your file via the directive `#include "simple_vector.h, #include "array_ptr.h"`
+- Put the files `array_ptr.h, simple_vector in your project folder.h` from the repository.
+- Connect SimpleVector to your file via the directives `#include "simple_vector.h, #include "array_ptr.h"`.
