@@ -1,7 +1,7 @@
 Simple Vector
 ------------
 
-Container, a simplified analogue of `std::vector`. A pointer wrapper has been written for this container. The idiom `RAII' is used.
+Container, a simplified analogue of `std::vector`. A pointer wrapper has been written for this container. The idiom RAII is used.
 
 Initialization
 ------------
